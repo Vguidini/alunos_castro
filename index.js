@@ -5,7 +5,7 @@
         {
             RA: "000052011",
             nome: "Vinícius Guidini",
-            nascimento: "2006-03-014",
+            nascimento: "2006-03-14",
             curso: "Mecatrônica",
         }
     );
